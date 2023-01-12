@@ -1,4 +1,4 @@
-from PyQt5 import  uic,QtWidgets
+from PyQt5 import  uic,QtWidgets.
 import mysql.connector
 from reportlab.pdfgen import canvas
 
